@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=z3nth10n&theme=maroongold" alt="z3nth10n wakatime stats">
 </p>
 
-*Read this document in other language:* (Español)[https://github.com/z3nth10n/z3nth10n/README.es.md], (English)[https://github.com/z3nth10n/z3nth10n/README.md].
+*Read this document in other language:* [Español](https://github.com/z3nth10n/z3nth10n/README.es.md), [English](https://github.com/z3nth10n/z3nth10n/README.md).
 
 This are my websites:
 
@@ -42,4 +42,4 @@ If you want to contact me, please do it through Discord: https://discord.gg/ju2q
 
 My main projects: uzSurfaceMapper, uzSourceToolkit, DepotToolkit, uzLib.Lite, uzLib, Unity Theft Auto (ABANDONED), SanAndreasUnity (BANNED, thanks to in0finite 🤬).
 
-More projects on the way: Procedural Cities, Unity Language System, ...
+More projects on the way: Procedural Cities, Unity Language System, they are on my private repo FUTURE ASSETS 😜.
