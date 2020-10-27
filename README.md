@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 This are my websites:
 
 - https://vizzuta.net (where I show my team).
-- https://z3nth10n.net (where I post updates of my projects or tutorial, currently abandoned).
+- https://z3nth10n.net (where I post updates of my projects or tutorials, currently abandoned).
 
 I would like to invite you to VIZZUTA, please, see the website for more info.
 
