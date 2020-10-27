@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# z3nth10n [![HitCount](http://hits.dwyl.com/z3nth10n/z3nth10n.svg)](http://hits.dwyl.com/z3nth10n/z3nth10n)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats">
 </p>
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=z3nth10n" alt="z3nth10n wakatime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=z3nth10n&theme=maroongold" alt="z3nth10n wakatime stats">
 </p>
 
 This are my websites:
@@ -33,3 +35,8 @@ This are my websites:
 I would like to invite you to VIZZUTA, please, see the website for more info.
 
 If you want to contact me, please do it through Discord: https://discord.gg/ju2qDtM
+
+---
+
+My main projects: uzSurfaceMapper, uzSourceToolkit, DepotToolkit, uzLib.Lite, uzLib, Unity Theft Auto (ABANDONED), SanAndreasUnity (BANNED, thanks to in0finite 🤬).
+More projects on the way: Procedural Cities, Unity Language System, ...
