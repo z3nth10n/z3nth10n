@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>![z3nth10n stats](https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold)</center>
-<center>![z3nth10n stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold)</center>
+<center>
+  ![z3nth10n stats](https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold)
+</center>
+<center>
+  ![z3nth10n stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold)
+</center>
 
 This are my websites:
 
