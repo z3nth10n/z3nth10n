@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 # z3nth10n's Profile [![HitCount](http://hits.dwyl.com/z3nth10n/z3nth10n.svg)](http://hits.dwyl.com/z3nth10n/z3nth10n)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs">
 </p>
 
 <p align="center">
