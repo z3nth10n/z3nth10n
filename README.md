@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-  ![z3nth10n stats](https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold)
-</center>
-<center>
-  ![z3nth10n stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold)
-</center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=z3nth10n" alt="z3nth10n wakatime stats">
+</p>
 
 This are my websites:
 
