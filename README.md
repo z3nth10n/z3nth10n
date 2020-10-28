@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=z3nth10n&theme=maroongold" alt="z3nth10n wakatime stats">
 </p>
 
-*Read this document in other language:* [Español](https://github.com/z3nth10n/z3nth10n/README.es.md), [English](https://github.com/z3nth10n/z3nth10n/README.md).
+*Read this document in other language:* [Español](https://github.com/z3nth10n/z3nth10n/blob/main/README.es.md), [English](https://github.com/z3nth10n/z3nth10n/blob/main/README.md).
 
 This are my websites:
 
