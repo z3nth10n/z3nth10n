@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# z3nth10n's Profile [![HitCount](http://hits.dwyl.com/z3nth10n/z3nth10n.svg)](http://hits.dwyl.com/z3nth10n/z3nth10n)
+# z3nth10n's Profile ![hit count](http://z3nth10n.net:4000/z3nth10n/z3nth10n.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs">
