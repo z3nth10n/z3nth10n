@@ -36,6 +36,6 @@ Si quieres contactarme, hazlo a través de Discord: https://discord.gg/ju2qDtM
 
 ---
 
-Mis principales proyectos: uzSurfaceMapper, uzSourceToolkit, DepotToolkit, uzLib.Lite, uzLib, Unity Theft Auto (ABANDONED), SanAndreasUnity (BANNED, thanks to in0finite 🤬).
+Mis principales proyectos: uzSurfaceMapper, uzSourceToolkit, DepotToolkit, uzLib.Lite, uzLib, Unity Theft Auto (ABANDONADO), SanAndreasUnity (BANEADO, gracias a in0finite 🤬).
 
 Proyectos en camino: Ciudades Procedurales, Sistema de idiomas para Unity3D, los demás están escrito en mi repositorio privado de ASSETS FUTUROS 😜.
