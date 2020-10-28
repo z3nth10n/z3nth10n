@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 *Lee este documento en otro idioma:* [Español](https://github.com/z3nth10n/z3nth10n/blob/main/README.es.md), [English](https://github.com/z3nth10n/z3nth10n/blob/main/README.md).
 
+> Desarrollador autodidacta desde 2011. Todos mis proyectos más importantes están en la organización [**@uta-org**](https://github.com/uta-org).
+
 Estas son mis páginas web:
 
 - https://vizzuta.net (donde muestro mi equipo).
