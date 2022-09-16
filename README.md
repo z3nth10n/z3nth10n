@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Autodidact developer since 2011. All of my most important projects are in the [**@uta-org**](https://github.com/uta-org) organization.
+
+- 🔭 I’m currently working on web devepment & Unity assets making.
+- 🌱 I’m currently learning web technology, code patterns, better and more productive software development, avant-garde technologies...
+- 👯 I’m looking to collaborate on open source projects I use as a dependency.
+- 🤔 I’m looking for help with my Unity projects.
+- 💬 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
+- ✉️ You can shoot me an email at alvaro.rg.98@gmail.com! I'll try to respond as soon as I can.
+
+<img src="https://thumbs.gfycat.com/AlarmingVigorousGoldenmantledgroundsquirrel-size_restricted.gif" align="right" width='340' />
 
 ### ⚙ Technologies I use
 
@@ -46,11 +48,10 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=unity)&nbsp;
 
-
-<img src="https://thumbs.gfycat.com/AlarmingVigorousGoldenmantledgroundsquirrel-size_restricted.gif" align="right" />
+### 🔢 Github Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats" width='300'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs" width='300'>
 </p>
 
 <p align="center">
@@ -59,19 +60,9 @@ Here are some ideas to get you started:
 
 *Read this document in other language:* [Español](https://github.com/z3nth10n/z3nth10n/blob/main/README.es.md), [English](https://github.com/z3nth10n/z3nth10n/blob/main/README.md).
 
-> Autodidact developer since 2011. All of my most important projects are in the [**@uta-org**](https://github.com/uta-org) organization.
-
-This are my websites:
-
-- https://vizzuta.net (where I show my team).
-- https://z3nth10n.net (where I post updates of my projects or tutorials, currently abandoned).
+-----------------
 
 I would like to invite you to VIZZUTA, please, see the website for more info.
 
 If you want to contact me, please do it through Discord: https://discord.gg/ju2qDtM
 
----
-
-My main projects: uzSurfaceMapper, uzSourceToolkit, DepotToolkit, uzLib.Lite, uzLib, Unity Theft Auto (ABANDONED), SanAndreasUnity (BANNED, thanks to in0finite 🤬).
-
-More projects on the way: Procedural Cities, Unity Language System, they are on my private repo FUTURE ASSETS 😜.
