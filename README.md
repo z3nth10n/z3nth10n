@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### 🔢 Github Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats" width='450'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs" width='450'>
+  <img src="https://github-readme-stats.vercel.app/api?username=z3nth10n&show_icons=true&theme=maroongold" alt="z3nth10n stats" width='400'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nth10n&layout=compact&theme=maroongold" alt="z3nth10n top langs" width='400'>
 </p>
 
 <p align="center">
