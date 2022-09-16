@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=unity)&nbsp;
 
 
 <img src="https://thumbs.gfycat.com/AlarmingVigorousGoldenmantledgroundsquirrel-size_restricted.gif" align="right" />
