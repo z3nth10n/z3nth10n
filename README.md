@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://user-images.githubusercontent.com/4929135/190702431-7bf6d632-6226-4783-9ef6-52f51fd7eec1.png)
+
 <img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hello! My name is Álvaro</h2>
 
 ## 👨‍💻 About me
